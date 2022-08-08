@@ -7,11 +7,7 @@ This config was made compiling the work of ROCapsules and SpaceLaunchSystem Part
 This config has support for RSS/RO, RealAntennas and **SOME** support for TACLS. I do not use TACLS so YMMV.
 
 # Dependencies
-[Benjee10_Orion](https://github.com/benjee10/Benjee10_Orion)  
-B9 Part Switch  
-Animated Decouplers  
-Breaking Ground DLC  
-Module Manager  
+[Benjee10_Orion](https://github.com/benjee10/Benjee10_Orion) and its' dependencies  
 RealSolarSystem  
 RealismOverhaul  
 
