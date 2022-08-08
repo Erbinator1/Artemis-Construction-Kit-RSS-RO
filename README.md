@@ -5,10 +5,10 @@ This config was made compiling the work of ROCapsules and SpaceLaunchSystem Part
 
 # Dependencies (as of right now)
 Benjee10_Orion
-  B9 Part Switch
-  Animated Decouplers
-  Breaking Ground DLC
-  Module Manager
+B9 Part Switch
+Animated Decouplers
+Breaking Ground DLC
+Module Manager
 RealSolarSystem
 RealismOverhaul
 
