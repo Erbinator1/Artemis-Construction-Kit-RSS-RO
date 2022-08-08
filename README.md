@@ -15,8 +15,8 @@ RealismOverhaul
 # Installation
 Unzip the contents of zip file to your KSP Main directory.  
 File structure:  
-Kerbal Space Program  
-  GameData  
-    ROConfigs
+-Kerbal Space Program  
+  -GameData  
+    -ROConfigs
 # Issues
 This config is very much a WIP. This is my first public config so if you have any issues, let me know in the issues tab. 
