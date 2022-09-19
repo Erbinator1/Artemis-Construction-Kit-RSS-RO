@@ -13,7 +13,7 @@ This config has support for RSS/RO, RealAntennas and **SOME** support for TACLS.
 
 # Soft-Dependencies
 [ROEngines](https://github.com/KSP-RO/ROEngines)   
-(Only install this if you want the mounting points from ACK. Otherwise use the NON-RO engine. More details in **Known Issues**)   
+(Only install my edit if you want the mounting points from ACK. Otherwise use the NON-RO engine. More details in **Known Issues**)   
 # Extras   
 **To use Bluedog Design Bureau's SLS ICPS, head to SovietOnion's Repository [here](https://github.com/SovietOnion1608/RealismOverhaul/tree/BDB-RO-Configs)**   
 
