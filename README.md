@@ -8,8 +8,9 @@ This config has support for RSS/RO, RealAntennas and **SOME** support for TACLS.
 
 # Dependencies
 [Benjee10_Orion](https://github.com/benjee10/Benjee10_Orion) and its dependencies  
-RealSolarSystem  
-RealismOverhaul  
+[RealSolarSystem](https://github.com/KSP-RO/RealSolarSystem)   
+[RealismOverhaul](https://github.com/KSP-RO/RealismOverhaul)   
+**To use Bluedog Design Bureau's SLS, head to SovietOnion's Repository [here](https://github.com/SovietOnion1608/RealismOverhaul/tree/BDB-RO-Configs)   
 
 # Installation
 Unzip the contents of zip file to your KSP Main directory.<br><br>
