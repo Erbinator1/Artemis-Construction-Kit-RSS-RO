@@ -4,7 +4,8 @@ This config provides compatibility with benjee10's new Orion and SLS parts for R
 This config was made compiling the work of ROCapsules and SpaceLaunchSystem Parts Pack. This work was not done by me, merely adopted from other configs to adapt benjee10's Orion for RSS/RO. I DO NOT TAKE CREDIT FOR THEIR WORK.<br>
 <br>If there are any issues with this, please inform me and I will take it down.  
 
-This config has support for RSS/RO, RealAntennas and **SOME** support for TACLS. I do not use TACLS so YMMV.
+This config has support for RSS/RO, RealAntennas and **SOME** support for TACLS. I do not use TACLS so YMMV.   
+I have also added a branch for people who do not wish to have TACLS parts on the craft. Just select the no-TACLS branch and download the source code.
 
 # Dependencies
 [Benjee10_Orion](https://github.com/benjee10/Benjee10_Orion) and its dependencies  
