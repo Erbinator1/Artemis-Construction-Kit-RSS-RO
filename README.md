@@ -19,5 +19,6 @@ File structure:
 * Kerbal Space Program  
   * GameData  
     * ROConfigs
+    * ROEngines
 # Issues
 This config is very much a WIP. This is my first public config so if you have any issues, let me know in the issues tab. 
