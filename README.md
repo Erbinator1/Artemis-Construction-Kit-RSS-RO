@@ -10,6 +10,7 @@ This config has support for RSS/RO, RealAntennas and **SOME** support for TACLS.
 [Benjee10_Orion](https://github.com/benjee10/Benjee10_Orion) and its dependencies  
 [RealSolarSystem](https://github.com/KSP-RO/RealSolarSystem)   
 [RealismOverhaul](https://github.com/KSP-RO/RealismOverhaul)   
+[ROEngines](https://github.com/KSP-RO/ROEngines)   
 **To use Bluedog Design Bureau's SLS ICPS, head to SovietOnion's Repository [here](https://github.com/SovietOnion1608/RealismOverhaul/tree/BDB-RO-Configs)   
 
 # Installation
