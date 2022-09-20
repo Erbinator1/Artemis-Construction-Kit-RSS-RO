@@ -27,6 +27,6 @@ File structure:
     * ROEngines (Only install this version if you want mounting nodes from ACK)  
 
 # Known Issues   
-* RS-25 mount textures do not show up for ROEngines, but does for the one included in ACK. The engine included with ACK **IS** configured for RO, but will say NON-RO. I cannot remove the NON-RO status without the engine being removed altogether. I have made it so the mounts are the same across ROEngines and ACK.   
+* RS-25 mount textures may not show up for ROEngines, but definitely does for the one included in ACK. I have tested two installs and one install worked, while the other did not. The engine included with ACK **IS** configured for RO, but will say NON-RO. I cannot remove the NON-RO status without the engine being removed altogether. I have made it so the mounts are the same across ROEngines and ACK.   
 # Issues
 This config is very much a WIP. This is my first public config so if you have any issues, let me know in the issues tab. 
